@@ -1,0 +1,5 @@
+1 3 North 5.7
+2 3 SouthEast 8.2
+3 3 West 3.9
+4 3 NorthWest 6.5
+5 3 East 4.1
