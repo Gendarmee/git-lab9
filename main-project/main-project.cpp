@@ -3,9 +3,13 @@
 
 #include <iostream>
 
+using namespace std;
+
 int main()
 {
-    std::cout << "Hello\n";
+    cout << "Laboratory work #9. GIT\n";
+    cout << "Variant #6. Wind rose\n";
+    cout << "Author: Vova leksakov\n";
     return 0;
 }
 
